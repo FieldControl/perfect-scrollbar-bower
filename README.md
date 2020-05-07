@@ -2,9 +2,9 @@
 
 This is the [Bower](https://bower.io/) package of perfect-scrollbar.
 
-This is a fork of the removed repository [https://github.com/noraesae/perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar).
+It is a fork of the removed repository [https://github.com/noraesae/perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar).
 
-In our applications we use this application and the author ended up removing the official repository for some reason and broke all dependent repositories.
+In our applications we use `perfect-scrollbar` and the author ended up removing the official repository for some reason, breaking all dependent repositories.
 
 ### How to use:
 ```sh
